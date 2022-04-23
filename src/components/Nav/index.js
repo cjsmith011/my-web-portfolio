@@ -1,16 +1,9 @@
 import { capitalizeFirstLetter } from '../../utils/helpers';
 import React, {useEffect} from 'react';
+import devImage from '../../assets/cover/dev-image.JPG';
 
-function Nav(props) {
-    const {
-      categories = [],
-      setCurrentCategory,
-      currentCategory,
-    } = props;
-    
-    useEffect(() => {
-      document.title = capitalizeFirstLetter(currentCategory.name);
-    }, [currentCategory]);
+function Nav() {
+
     
 
       
@@ -18,7 +11,7 @@ function Nav(props) {
     <header className='flex-row px-1'>
         <h2>
             <a data-testid="link" href="/">
-                <span role="img" aria-label="camera"> </span> Portfolio for Carlie Smith
+                <img src={devImage} style={{ width: "10% "}}/> Portfolio for Carlie Smith
             </a>
         </h2>
         <nav>
@@ -35,15 +28,7 @@ function Nav(props) {
                 <li className='mx-2'>
                     <span>Resume</span>
                 </li>
-                {categories.map((category) => (
-                <li className={`mx-1 ${currentCategory.name === category.name && 'navActive'}`}
-                key={category.name}>
-                    <span onClick={() => {
-                        setCurrentCategory(category)}}>
-                        {capitalizeFirstLetter(category.name)}
-                        </span>
-                </li>
-             ))}
+              
             </ul>
         </nav>
 
