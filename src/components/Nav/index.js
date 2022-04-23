@@ -29,6 +29,12 @@ function Nav(props) {
                 <li className='mx-2'>
                     <span>Contact</span>
                 </li>
+                <li className='mx-2'>
+                    <span>Portfolio</span>
+                </li>
+                <li className='mx-2'>
+                    <span>Resume</span>
+                </li>
                 {categories.map((category) => (
                 <li className={`mx-1 ${currentCategory.name === category.name && 'navActive'}`}
                 key={category.name}>
