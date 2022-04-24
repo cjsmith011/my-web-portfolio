@@ -1,5 +1,17 @@
 My Web Portfolio
 
+Thank you for checking out my portfolio.
+
+I got much more comfortable with React and found a way to deploy a sticky footer!!
+
+Credit: Photo Port
+
+Github link:
+
+Deployed site:
+
+Screenshot
+
 
 User Story
 AS AN employer looking for candidates with experience building single-page applications
