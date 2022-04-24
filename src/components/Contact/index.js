@@ -1,5 +1,6 @@
 import React, { useState } from "react";
 import { validateEmail } from '../../utils/helpers';
+import emailImage from "../../assets/img/email.JPG";
 
 function ContactForm() {
 
@@ -37,7 +38,8 @@ function ContactForm() {
 
     return (
         <section>
-        <h1 data-testid="h1tag">Let's Connect!</h1>
+        <h1 id="contact">Let's Connect!</h1>
+        <img src={emailImage}></img>
         <form id="contact-form" onSubmit={handleSubmit}>
             <div>
                 <label htmlFor="name">Name:</label>

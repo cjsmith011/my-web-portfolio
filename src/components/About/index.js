@@ -1,5 +1,5 @@
 import React from "react";
-import cjImage from "../../assets/cover/cjphoto.jpg";
+import cjImage from "../../assets/img/cjphoto.jpg";
 
 
 function About() {

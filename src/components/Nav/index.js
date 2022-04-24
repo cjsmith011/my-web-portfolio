@@ -1,6 +1,6 @@
 
 import React, {useEffect} from 'react';
-import devImage from '../../assets/cover/dev-image.JPG';
+import devImage from '../../assets/img/dev-image.JPG';
 
 function Nav() {
 
@@ -33,6 +33,7 @@ function Nav() {
         </nav>
 
     </header>
+    
   )
 }
 

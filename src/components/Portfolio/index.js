@@ -1,8 +1,8 @@
 import React from 'react';
 import {Link} from 'react-router-dom';
 
-import githubImage from "../../assets/cover/Octocat.jpg";
-import ghlinkImage from "../../assets/cover/GitHub-Mark-Light-64px.png";
+import githubImage from "../../assets/img/Octocat.jpg";
+import ghlinkImage from "../../assets/img/GitHub-Mark-Light-64px.png";
 
 
 
@@ -10,7 +10,7 @@ import ghlinkImage from "../../assets/cover/GitHub-Mark-Light-64px.png";
 function Portfolio() {
     return (
         <section className="my-5">
-            <h1 id="about">Check out my projects!</h1>
+            <h1 id="portfolio">Check out my projects!</h1>
             <img src={githubImage} className="my-2" style={{ width: "10%" }} alt="github link" /> 
             <ul>
               <li>
