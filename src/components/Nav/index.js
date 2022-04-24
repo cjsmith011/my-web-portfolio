@@ -1,4 +1,4 @@
-import { capitalizeFirstLetter } from '../../utils/helpers';
+
 import React, {useEffect} from 'react';
 import devImage from '../../assets/cover/dev-image.JPG';
 
@@ -20,13 +20,13 @@ function Nav() {
                     <a data-testid = "about" href="#about">About me</a>
                 </li>
                 <li className='mx-2'>
-                    <span>Contact</span>
+                    <a data-testid = "contact" href="#contact">Contact</a>
                 </li>
                 <li className='mx-2'>
-                    <span>Portfolio</span>
+                    <a data-testid = "portfolio" href="#portfolio">Portfolio</a>
                 </li>
                 <li className='mx-2'>
-                    <span>Resume</span>
+                    <a data-testid = "resume" href="#resume">My Resume</a>
                 </li>
               
             </ul>

@@ -3,7 +3,8 @@ import Nav from './components/Nav';
 import About from './components/About';
 import ContactForm from './components/Contact';
 import Footer from './components/Footer';
-import Gallery from './components/Gallery';
+import Resume from './components/Resume';
+import Portfolio from './components/Portfolio';
 
 
 function App() {
@@ -17,7 +18,8 @@ function App() {
      ></Nav>
         <main>
           <ContactForm></ContactForm>
-          <Gallery></Gallery>
+          <Portfolio></Portfolio>
+          <Resume></Resume>
             <About></About>
         </main>
      
