@@ -6,11 +6,11 @@ I got much more comfortable with React and found a way to deploy a sticky footer
 
 Credit: Photo Port
 
-Github link:
+Github link: https://github.com/cjsmith011/my-web-portfolio.git
 
-Deployed site:
+Deployed site: http://cjsmith011.github.io/my-web-portfolio
 
-Screenshot
+Screenshot: https://github.com/cjsmith011/my-web-portfolio/blob/main/src/assets/img/deployed%20site%20image.JPG
 
 
 User Story

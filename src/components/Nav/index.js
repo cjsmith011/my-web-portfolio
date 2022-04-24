@@ -1,11 +1,11 @@
 
 import React, {useEffect} from 'react';
 import devImage from '../../assets/img/dev-image.JPG';
-import Footer from '../Footer';
+
+
 
 function Nav() {
-
-    
+  
 
       
   return (
@@ -17,7 +17,7 @@ function Nav() {
         </h2>
         <nav>
             <ul className="flex-row">
-                <li className="mx-2">
+                <li className="navActive">
                     <a data-testid = "about" href="#about">About me</a>
                 </li>
                 <li className='mx-2'>
