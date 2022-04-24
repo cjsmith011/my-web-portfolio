@@ -1,6 +1,7 @@
 
 import React, {useEffect} from 'react';
 import devImage from '../../assets/img/dev-image.JPG';
+import Footer from '../Footer';
 
 function Nav() {
 
@@ -33,6 +34,7 @@ function Nav() {
         </nav>
 
     </header>
+ 
     
   )
 }
