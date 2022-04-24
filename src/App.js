@@ -20,7 +20,7 @@ function App() {
           <ContactForm></ContactForm>
           <Portfolio></Portfolio>
           <Resume></Resume>
-            <About></About>
+          <About></About>
         </main>
      
     </div>
