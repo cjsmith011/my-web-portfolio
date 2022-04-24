@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/my-web-portfolio/static/css/main.0704d3ef.css",
+    "main.js": "/my-web-portfolio/static/js/main.352dad7a.js",
+    "static/js/787.e7f938ec.chunk.js": "/my-web-portfolio/static/js/787.e7f938ec.chunk.js",
+    "static/media/cjsmith011-resume.JPG": "/my-web-portfolio/static/media/cjsmith011-resume.496fc641539058378540.JPG",
+    "static/media/pizza.JPG": "/my-web-portfolio/static/media/pizza.565df620f1ec38ee1ee5.JPG",
+    "static/media/Octocat.jpg": "/my-web-portfolio/static/media/Octocat.2444c54fd88ae684e5a7.jpg",
+    "static/media/marvel.JPG": "/my-web-portfolio/static/media/marvel.d108a09dd1ddaff15d77.JPG",
+    "static/media/cjphoto.jpg": "/my-web-portfolio/static/media/cjphoto.e2275c07accea4423b00.jpg",
+    "static/media/runbuddy.JPG": "/my-web-portfolio/static/media/runbuddy.2895bef9bf565a8d14fb.JPG",
+    "static/media/weather.JPG": "/my-web-portfolio/static/media/weather.28f2d041ed88487a10a8.JPG",
+    "static/media/LI-Logo.png": "/my-web-portfolio/static/media/LI-Logo.a95afc06831647f5fca2.png",
+    "static/media/getsocial.JPG": "/my-web-portfolio/static/media/getsocial.baa5f80e3d44a5ed3543.JPG",
+    "static/media/budgettracker.JPG": "/my-web-portfolio/static/media/budgettracker.d92c1e112e19c540fb2c.JPG",
+    "static/media/dev-image.JPG": "/my-web-portfolio/static/media/dev-image.9f9170445477031758a6.JPG",
+    "static/media/email.JPG": "/my-web-portfolio/static/media/email.13aa368e8b52add7e5a4.JPG",
+    "index.html": "/my-web-portfolio/index.html",
+    "main.0704d3ef.css.map": "/my-web-portfolio/static/css/main.0704d3ef.css.map",
+    "main.352dad7a.js.map": "/my-web-portfolio/static/js/main.352dad7a.js.map",
+    "787.e7f938ec.chunk.js.map": "/my-web-portfolio/static/js/787.e7f938ec.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0704d3ef.css",
+    "static/js/main.352dad7a.js"
+  ]
+}
