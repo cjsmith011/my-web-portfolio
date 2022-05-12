@@ -9,7 +9,7 @@ import getsocial from "../../assets/img/getsocial.JPG";
 import pizza from "../../assets/img/pizza.JPG";
 import marvel from "../../assets/img/marvel.JPG";
 import weather from "../../assets/img/weather.JPG";
-
+import baddoglogo from "../../assets/img/Bad Dog logo.jpg";
 
 
 
@@ -53,6 +53,12 @@ function Portfolio() {
                 <img src ={getsocial} style={{ width: "20%"}}></img>
                 <a onClick={() => {window.location.href="https://github.com/cjsmith011/get-social.git"}}>Github: Share your thoughts</a>
                 <a onClick={() => {window.location.href="https://drive.google.com/file/d/1746FpZ-KJ5EAE3fbqo5OHWWwD6OrDimZ/view"}}> || Deployed site: Get-social</a>
+              </li>
+
+              <li>
+                <img src ={baddoglogo} style={{ width: "20%"}}></img>
+                <a onClick={() => {window.location.href="https://github.com/doctordutch/project3.git"}}>Github: Bad Dog Woodshop</a>
+                <a onClick={() => {window.location.href="https://baddogshop.herokuapp.com/"}}> || Deployed site: Project3</a>
               </li>
 
 
